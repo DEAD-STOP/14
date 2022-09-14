@@ -1,0 +1,13 @@
+* {
+  margin: 0%;
+}
+nav{
+  margin-bottom: 60px;
+  font-family: 'Quicksand', sans-serif;
+}
+body{
+  background-color: rgb(210, 252, 238);
+}
+nav{
+  background-color: cadetblue;
+}
